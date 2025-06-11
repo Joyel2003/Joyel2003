@@ -18,6 +18,14 @@ I'm a passionate software engineer and designer with a love for building beautif
 
 ---
 
+## 🏆 GitHub Stats
+
+![Joyel2003's GitHub Streak](https://streak-stats.demolab.com?user=Joyel2003&theme=radical)
+![Joyel2003's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyel2003&show_icons=true&theme=radical)
+![Joyel2003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyel2003&layout=compact&theme=radical)
+
+---
+
 ## 🛠️ Top Skills
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
