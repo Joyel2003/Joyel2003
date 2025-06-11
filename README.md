@@ -1,6 +1,7 @@
-# Hi, I'm Joyel 👋
-
-**Software Engineer & Designer**
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Joyel+%F0%9F%91%8B;Software+Engineer+%26+Designer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -38,6 +39,10 @@ I'm a passionate software engineer and designer with a love for building beautif
 
 ---
 
+<img src="https://raw.githubusercontent.com/Joyel2003/Joyel2003/main/assets/wave.svg" alt="wave" width="100%" />
+
+---
+
 ## 🌈 Featured Projects
 
 - [QuickStay Hotel Booking](https://github.com/Joyel2003/QuickStay-Hotel-Booking.git)  
@@ -56,7 +61,7 @@ I'm a passionate software engineer and designer with a love for building beautif
 
 ## 💡 Fun Facts
 
-- I love designing interfaces as much as I enjoy bringing them to life with code.
+- <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="30" /> I love designing interfaces as much as I enjoy bringing them to life with code.
 - You’ll often find me with a book in one hand and a bike helmet in the other!
 
 ---
