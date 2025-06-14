@@ -40,7 +40,7 @@ I'm a passionate software engineer and designer with a love for building beautif
 
 ---
 
-<img src="https://raw.githubusercontent.com/Joyel2003/Joyel2003/main/assets/wave.svg" alt="wave" width="100%" />
+
 
 ---
 
