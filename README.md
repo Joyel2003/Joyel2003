@@ -5,7 +5,7 @@
 
 ---
 
-🌟 _"I AM NOT AFRAID OF FAILURE BECAUSE FAILURE IS MY SIBLING"_
+🌟 _"I AM NOT AFRAID OF FAILURE BECAUSE FAILURE IS MY SIBLING."_
 
 ---
 
@@ -36,6 +36,7 @@ I'm a passionate software engineer and designer with a love for building beautif
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 
 ---
 
