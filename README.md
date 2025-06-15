@@ -15,7 +15,7 @@ I'm a passionate software engineer and designer with a love for building beautif
 
 - 🖥️ **Main Tech Stack:** HTML, CSS, React, Next.js, Node.js, Vue
 - 🎨 **Design Tools:** Figma
-- 📚 **Hobbies:** Designing, reading books, and riding bikes
+- 📚 **Hobbies:** Designing, reading books, Learning new things and riding bikes
 
 ---
 
