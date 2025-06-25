@@ -22,7 +22,7 @@ I'm a passionate software engineer and designer with a love for building beautif
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Joyel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Joyel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Joyel2003&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br><br>
