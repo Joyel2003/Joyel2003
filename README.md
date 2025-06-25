@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Joyel+%F0%9F%91%8B;Software+Engineer+%26+Designer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Joyel+%F0%9F%91%8B;Software+Engineer+%26+Designer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,10 +22,10 @@ I'm a passionate software engineer and designer with a love for building beautif
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Joyel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
+  <img src="https://streak-stats.demolab.com?user=Joyel2003&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Joyel2003&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyel2003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -66,4 +66,3 @@ I'm a passionate software engineer and designer with a love for building beautif
 - You’ll often find me with a book in one hand and a bike helmet in the other!
 
 ---
-<!-- ✨ Always open to collaboration and learning new things. Drop a message if you want to build something amazing together! -->
