@@ -31,7 +31,7 @@ I'm a passionate software engineer and designer with a love for building beautif
 
 ---
 
-## 🛠️ Top Skills
+## 🛠️ Top Skills !
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
